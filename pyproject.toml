@@ -1,15 +1,4 @@
-[build-system]
-requires = ["setuptools>=62.0", "wheel"]
-build-backend = "setuptools.build_meta"
-
 [project]
-name = "my-minimal-package"
+name = "python_mvp"
 version = "0.1.0"
-description = "A minimal Python package."
-authors = [
-  { name = "Your Name", email = "you@example.com" }
-]
-license = "MIT"
-readme = "README.md"
-requires-python = ">=3.7"
 dependencies = []
